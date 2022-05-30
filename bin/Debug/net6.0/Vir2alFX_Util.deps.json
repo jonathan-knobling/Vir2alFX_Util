@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vir2alFX_Util/1.0.0": {
+        "runtime": {
+          "Vir2alFX_Util.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vir2alFX_Util/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

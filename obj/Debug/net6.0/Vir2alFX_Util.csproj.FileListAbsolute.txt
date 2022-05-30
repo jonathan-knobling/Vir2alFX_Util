@@ -1,0 +1,15 @@
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\bin\Debug\net6.0\Vir2alFX_Util.exe
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\bin\Debug\net6.0\Vir2alFX_Util.deps.json
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\bin\Debug\net6.0\Vir2alFX_Util.runtimeconfig.json
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\bin\Debug\net6.0\Vir2alFX_Util.dll
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\bin\Debug\net6.0\Vir2alFX_Util.pdb
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\obj\Debug\net6.0\Vir2alFX_Util.csproj.AssemblyReference.cache
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\obj\Debug\net6.0\Vir2alFX_Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\obj\Debug\net6.0\Vir2alFX_Util.AssemblyInfoInputs.cache
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\obj\Debug\net6.0\Vir2alFX_Util.AssemblyInfo.cs
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\obj\Debug\net6.0\Vir2alFX_Util.csproj.CoreCompileInputs.cache
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\obj\Debug\net6.0\Vir2alFX_Util.dll
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\obj\Debug\net6.0\refint\Vir2alFX_Util.dll
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\obj\Debug\net6.0\Vir2alFX_Util.pdb
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\obj\Debug\net6.0\Vir2alFX_Util.genruntimeconfig.cache
+C:\Users\happy\Desktop\GitHub\Vir2alFX_Util\obj\Debug\net6.0\ref\Vir2alFX_Util.dll
