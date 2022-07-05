@@ -30,6 +30,22 @@ public static class TimecodeCalculator
         }
     }
 
+    internal static void CaclulateFrames()
+    {
+        Console.WriteLine("InputTimecode with : as seperator");
+        String input = Console.ReadLine();
+        string[] frames = input.Split(':');
+        int hours = int.Parse(frames[0]);
+        int minutes = int.Parse(frames[1]);
+        int seconds = int.Parse(frames[2]);
+        int frame = int.Parse(frames[3]);
+
+        int totalFrameCount = frame + seconds * 24 + minutes * 24 * 60 + hours * 24 * 60 * 60;
+
+        Console.WriteLine(totalFrameCount);
+        Console.ReadLine();
+    }
+
     private static int GetFrameRate()
     {
         string input = string.Empty;

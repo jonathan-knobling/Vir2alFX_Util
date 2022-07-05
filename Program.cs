@@ -5,6 +5,7 @@
         private static void Main()
         {
             TimecodeCalculator.CalculateTimecode();
+            //TimecodeCalculator.CaclulateFrames();
         }
     }
 }
